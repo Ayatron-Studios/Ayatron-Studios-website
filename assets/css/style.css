@@ -249,7 +249,7 @@ h1, h2, h3, h4, h5, h6 {
    ========================================================================== */
 
 #headerwrap {
-	background: url(../img/back.jpg) no-repeat center top;
+	background: url(../img/hat.jpg) no-repeat center top;
 	margin-top: 0px;
 	padding-top:120px;
 	text-align:center;
@@ -300,7 +300,7 @@ h1, h2, h3, h4, h5, h6 {
 	height: 60px;
 	margin: 0 auto 45px;
 	border-top: 1px solid #000;
-	background: url(../img/name-label.png) center bottom no-repeat;
+	background: url(../img/github-icon.png) center bottom no-repeat;
 	background-size: 35px 35px;
 }
 
@@ -367,7 +367,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .portfolio {
-	background-image: url(../img/portfolio-sep.jpg);
+	background-image: url(../img/mountain.jpg);
 }
 
 /* Service Wrap */
@@ -428,7 +428,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .contact {
-	background-image: url(../img/contact-sep.jpg);
+	background-image: url(../img/field.jpg);
 }
 
 #contactwrap label {
